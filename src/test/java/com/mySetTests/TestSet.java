@@ -48,7 +48,7 @@ public class TestSet {
     }
 
     @Test
-    public void testIfListSizeIsIncrementing(){
+    public void testIfSetSizeIsIncrementing(){
         CustomSet<Integer> set = new CustomSet<>();
         set.add(1);
         set.add(2);
